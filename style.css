@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.pink{
+    color:hotpink;
+}
+.outer-container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
